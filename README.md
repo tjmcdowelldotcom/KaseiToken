@@ -6,10 +6,10 @@
 
 ### 1. Deploy KaseiCoinCrowdsale **Deployer** Contract Using Metamask Account
 #### Filled in NAME, SYMBOL, and WALLET
-![deployerDeployment](/1_Kasei.jpg)
+![deployerDeployment](/1_Kasei.JPG)
 
 ### 2. Confirming Transaction & Gas Fees Using Metamask
-![Confirmation](/2_Kasei.jpg)
+![Confirmation](/2_Kasei.JPG)
 
 ### 3. Successful Mining of Transaction
 #### Notice green check at bottom of screen
